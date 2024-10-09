@@ -1,6 +1,8 @@
+# hello my guy
+
 yo if anyone of my friends actually follows this link, the script is still in very early develpement. dont expect much and also expect the scipt to be changing frequently.
 
-btw if you want to execute the script, the game for the script is currently gun simulator but will change later.
+btw if you want to execute the script, the game for the script is currently gun simulator but will change later, most features can work universal though.
 
 just paste this into your executor:
 
