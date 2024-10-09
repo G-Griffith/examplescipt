@@ -8,4 +8,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/G-Griffith/examplesci
 
 game link:
 
-
+https://www.roblox.com/games/4036494886/Gun-Simulator
