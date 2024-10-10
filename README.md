@@ -6,7 +6,7 @@ btw if you want to execute the script, the game for the script is currently gun 
 
 just paste this into your executor:
 
-loadstring(game:HttpGet(""))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/G-Griffith/examplescipt/refs/heads/main/script.lua"))();
 
 game link:
 
