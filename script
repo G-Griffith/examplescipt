@@ -31,7 +31,7 @@ local MainSection = MainTab:CreateSection("Main Example")
 
 Rayfield:Notify({
    Title = "You executed the script",
-   Content = "Very cool gui",
+   Content = "Cool GUI. Made by G_Jonny and legacy.GG",
    Duration = 5,
    Image = 13047715178,
    Actions = { -- Notification Buttons
